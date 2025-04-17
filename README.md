@@ -1,49 +1,70 @@
-# Product Search Engine
+# 🛍️ Product Search Engine
 
 A robust product catalog application that allows users to browse, search, sort, and filter products from a CSV-based product catalog. The backend is built with **C++** for high performance, while the frontend is powered by **Python** and **Streamlit** for a dynamic, web-based user interface. The application uses efficient algorithms like **Linear Search** for searching, **Quick Sort** for sorting by rating, and **Merge Sort** for sorting by price and category.
 
-## Features
+---
 
-- **Search**: Search products by name or category using **Linear Search** for reliable results.
-- **Sort**: Sort products by price, rating, or category:
-  - **Quick Sort** for fast sorting by rating.
-  - **Merge Sort** for stable sorting by price and category.
-- **Filter**: Filter products by price range or rating range.
-- **Display**: View all products or filtered results in an interactive, tabular interface.
+## ✨ Features
 
-## Technologies Used
+- **🔍 Search**: Search products by name or category using **Linear Search** for fast, accurate results.
+- **📊 Sort**: Sort products dynamically by:
+  - **Price (Low to High / High to Low)** – powered by **Merge Sort**
+  - **Rating (High to Low)** – powered by **Quick Sort**
+  - **Category** – also using **Merge Sort** for stability
+- **⚙️ Filter**:
+  - Filter by one or multiple **categories**
+  - Set **price range** and **minimum rating** to narrow down your results
+- **🧾 Purchase History**:
+  - View a list of all previous checkouts including timestamp, items purchased, quantity, and total amount
+  - Automatically tracks each purchase when the user checks out their cart
+- **📋 Display**:
+  - Browse **all products**, **search results**, or **filtered results**
+  - View them in an interactive, sortable table
+- **🛒 Shopping Cart**:
+  - Add products from any tab (Search, All, or Filter)
+  - View itemized list with quantities and subtotals
+  - Remove items or adjust cart in real time
+  - Checkout with one click and save the session purchase
+
+---
+
+## 🛠️ Technologies Used
 
 ### Backend (C++)
 - **File Handling**: Reads product data from a CSV file.
 - **Sorting Algorithms**:
-  - **Quick Sort**: Optimizes sorting by rating.
-  - **Merge Sort**: Ensures stable sorting for price and category.
-- **Linear Search**: Implements search for product name and category.
+  - **Quick Sort**: Optimized for sorting products by rating.
+  - **Merge Sort**: Used for sorting by price and category.
+- **Search**: Implements **Linear Search** to locate products efficiently.
 - **STL Containers**:
-  - **Vector**: Stores product data dynamically.
-  - **Unordered Map**: Enables fast category-based lookups.
-- **String Manipulation**: Handles robust search queries.
+  - **`vector`**: To dynamically store product data.
+- **Time & Date**: Tracks checkout timestamps using `<ctime>`.
 
-### Frontend (Python)
-- **Streamlit**: Renders an interactive web-based interface.
-- **Pandas**: Manages CSV data for integration with the frontend.
+### Frontend (Python + Streamlit)
+- **Streamlit**: Builds a clean, interactive web UI.
+- **Pandas**: Efficiently handles CSV data operations.
+- **Session State**: Maintains cart contents, search history, and purchase history during a session.
 
-### Data Storage
-- **CSV File**: Stores product details (e.g., name, category, price, rating) in a structured format.
+---
 
-## Prerequisites
+## 📦 Data Storage
+
+- **CSV File**: 
+  - Stores product catalog including: `name`, `category`, `price`, and `rating`
+  - Make sure `products.csv` is available in the project directory
+
+---
+
+## ✅ Prerequisites
 
 ### For the Frontend
-Ensure you have Python installed, along with the following libraries:
-- `streamlit`
-- `pandas`
 
-Install them using pip:
+Ensure you have Python installed along with the required packages:
 ```bash
 pip install streamlit pandas
 ```
 
 Start the application by the below command
-```
+```bash
 streamlit run app.py
 ```
