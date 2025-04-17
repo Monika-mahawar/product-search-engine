@@ -1,0 +1,127 @@
+name,category,price,rating
+Samsung Galaxy S21,Phone,799.99,4.6
+Apple iPhone 13 Pro,Phone,999.99,4.7
+Google Pixel 6,Phone,699.99,4.4
+OnePlus 9 Pro,Phone,1069.99,4.5
+Sony Xperia 1 II,Phone,1199.99,4.2
+Samsung Galaxy S22,Phone,899.99,4.6
+Nokia 8.3 5G,Phone,499.99,4.0
+Apple MacBook Pro,Laptop,2399.99,4.8
+Dell XPS 13,Laptop,999.99,4.5
+HP Spectre x360,Laptop,1399.99,4.6
+Lenovo ThinkPad X1,Laptop,1200.00,4.5
+Asus ROG Strix,Gaming Laptop,1599.99,4.4
+Microsoft Surface 4,Laptop,1299.99,4.3
+Alienware m15,Gaming Laptop,1999.99,4.5
+Apple iPad Pro,Tablet,1099.99,4.7
+Samsung Galaxy Tab S7,Tablet,649.99,4.6
+Microsoft Surface Pro 7,Tablet,749.99,4.5
+Amazon Fire HD 10,Tablet,149.99,4.3
+Sony WH-1000XM4,Headphone,349.99,4.9
+Bose QuietComfort 35 II,Headphone,299.99,4.7
+Apple AirPods Pro,Headphone,249.99,4.8
+JBL Flip 5,Speaker,99.99,4.6
+Ultimate Ears BOOM 3,Speaker,129.99,4.5
+Bose SoundLink Flex,Speaker,149.99,4.6
+Sony SRS-XB12,Speaker,58.99,4.4
+Canon EOS R6,Camera,2499.99,0.0
+Nikon D7500,Camera,849.99,4.6
+Sony Alpha A7 III,Camera,1999.99,4.8
+Fujifilm X-T4,Camera,1699.99,4.7
+GoPro HERO 10,Camera,499.99,4.5
+Nintendo Switch,Console,299.99,4.8
+PlayStation 5,Console,499.99,4.7
+Xbox Series X,Console,499.99,4.5
+Samsung Galaxy Buds Pro,Headphone,199.99,4.5
+Garmin Forerunner 945,Fitness Tracker,599.99,4.8
+Fitbit Charge 5,Fitness Tracker,179.99,4.2
+Apple Watch Series 7,Smartwatch,399.99,4.6
+Nike Air Max 270,Clothing,150.00,4.6
+Adidas Ultraboost 21,Clothing,180.00,4.7
+Levi's 501 Original Fit,Clothing,49.99,4.5
+Gucci GG Marmont,Clothing,2500.00,4.8
+Ray-Ban Aviator Sunglasses,Clothing,154.00,4.7
+Samsung 55-inch QLED TV,Electronics,1199.99,4.7
+LG OLED C1 TV 55-inch,Electronics,1499.99,4.7
+Bose QuietComfort Earbuds,Electronics,279.99,4.3
+Fitbit Versa 3,Fitness Tracker,229.99,4.5
+GoPro Hero 9,Electronics,399.99,4.6
+Canon EOS 90D,Camera,1299.99,4.7
+Dell UltraSharp 32-inch Monitor,Electronics,999.99,4.8
+Garmin Forerunner 245,Fitness Tracker,249.99,4.4
+Apple Watch Series 6,Smartwatch,349.99,4.8
+Acer Aspire 5,Laptop,549.99,4.2
+Razer Kraken V3,Headphone,139.99,4.6
+Sony WH-XB900N,Headphone,248.00,4.7
+Corsair K95 RGB Platinum,Keyboard,199.99,4.8
+Microsoft Xbox One Controller,Accessories,59.99,4.6
+Logitech MX Master 3,Accessories,99.99,4.7
+Bose SoundLink Revolve,Speaker,199.99,4.7
+Apple iMac 24-inch,Electronics,1299.99,4.8
+iRobot Roomba i7+,Electronics,799.99,4.5
+Lego Star Wars Millennium Falcon,Accessories,159.99,4.9
+Nintendo Switch Lite,Console,199.99,4.4
+Sennheiser Momentum 3,Headphone,399.99,4.7
+Apple Mac Mini,Electronics,699.99,4.7
+Google Nest Thermostat,Smart Home,129.99,4.6
+Philips Hue Starter Kit,Smart Home,199.99,4.8
+Amazon Echo Dot (4th Gen),Smart Home,49.99,4.7
+Huawei P40 Pro,Phone,899.99,4.5
+Motorola Edge+,Phone,999.99,4.6
+Xiaomi Mi 11 Ultra,Phone,1199.99,4.8
+Google Pixel 5,Phone,699.99,4.4
+Oppo Find X2 Pro,Phone,1199.99,4.7
+iPhone SE (2020),Phone,399.99,4.6
+Dell Inspiron 15,Laptop,649.99,4.3
+HP Envy x360,Laptop,999.99,4.6
+Asus ZenBook 13,Laptop,899.99,4.4
+MSI GE66 Raider,Gaming Laptop,1799.99,4.5
+Razer Blade 15,Laptop,2299.99,4.8
+Acer Predator Helios 300,Gaming Laptop,1599.99,4.7
+Samsung Galaxy Tab A,Tablet,229.99,4.3
+Lenovo Tab P11,Tablet,349.99,4.5
+Huawei MatePad Pro,Tablet,499.99,4.7
+Apple iPad Mini,Tablet,499.99,4.6
+Bose QuietComfort 45,Headphone,329.99,4.8
+Sennheiser HD 660S,Headphone,499.99,4.7
+JBL Tune 750BTNC,Headphone,99.99,4.3
+Ultimate Ears Megaboom 3,Speaker,199.99,4.7
+Marshall Kilburn II,Speaker,299.99,4.6
+Sonos Roam,Speaker,169.99,4.8
+Sony XB32,Speaker,79.99,4.5
+Canon EOS 5D Mark IV,Camera,2499.99,4.8
+Nikon Z6,Camera,1799.99,4.7
+Panasonic Lumix GH5,Camera,1499.99,4.6
+Sony RX100 VII,Camera,1299.99,4.9
+GoPro HERO 9 Black,Camera,399.99,4.8
+Fujifilm Instax Mini 11,Camera,69.99,4.6
+Xbox Series S,Console,299.99,4.4
+PlayStation 4 Pro,Console,399.99,4.5
+Nintendo Switch OLED,Console,349.99,4.7
+Razer Kishi,Accessories,99.99,4.5
+Corsair Dark Core RGB SE,Mouse,89.99,4.6
+Logitech G Pro X,Keyboard,129.99,4.7
+SteelSeries Arctis 7,Headset,149.99,4.6
+Garmin Venu 2,Smartwatch,399.99,4.8
+Fitbit Sense,Smartwatch,299.99,4.7
+Amazfit GTR 3 Pro,Smartwatch,249.99,4.5
+Fossil Hybrid HR,Smartwatch,179.99,4.4
+Ray-Ban Wayfarer Sunglasses,Clothing,155.00,4.7
+Tommy Hilfiger Polo Shirt,Clothing,59.99,4.5
+Hugo Boss Slim Fit Jeans,Clothing,89.99,4.6
+Nike Dri-FIT T-shirt,Clothing,29.99,4.6
+Adidas Superstar Sneakers,Clothing,80.00,4.7
+Levi's 511 Slim Jeans,Clothing,69.99,4.6
+Puma Running Shoes,Clothing,65.00,4.5
+Bose Soundbar 700,Electronics,799.99,4.8
+LG 65-inch NanoCell TV,Electronics,1099.99,4.6
+Samsung 75-inch QLED TV,Electronics,1799.99,4.7
+Sony A8H OLED TV,Electronics,1799.99,4.8
+GoPro HERO 8,Electronics,299.99,4.7
+Oculus Quest 2,Electronics,299.99,4.6
+Echo Show 8,Smart Home,129.99,4.7
+Nest Learning Thermostat,Smart Home,249.99,4.8
+Philips Hue White Starter Kit,Smart Home,99.99,4.6
+Ring Video Doorbell,Smart Home,99.99,4.5
+Logitech Circle View Camera,Smart Home,159.99,4.8
+Wyze Cam v3,Smart Home,35.99,4.6
