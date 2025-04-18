@@ -1,6 +1,6 @@
 # 🛍️ Product Search Engine
 
-A robust product catalog application that allows users to browse, search, sort, and filter products from a CSV-based product catalog. The backend is built with **C++** for high performance, while the frontend is powered by **Python** and **Streamlit** for a dynamic, web-based user interface. The application uses efficient algorithms like **Linear Search** for searching, **Quick Sort** for sorting by rating, and **Merge Sort** for sorting by price and category.
+A robust and smart product catalog application that allows users to browse, search, sort, and filter products from a CSV-based product catalog. The backend is built with **C++** for high performance, while the frontend is powered by **Python** and **Streamlit** for a dynamic, web-based user interface. The application uses efficient algorithms like **Linear Search** for searching, **Quick Sort** for sorting by rating, and **Merge Sort** for sorting by price and category.
 
 ---
 
